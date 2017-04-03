@@ -1,0 +1,27 @@
+body{
+  background-color: #EC9516;
+  display: block;
+
+}
+h1{
+  text-align: center;
+}
+.div-contenedor{
+  margin: 0 auto;
+  text-align: center;
+}
+img{
+  border:1px solid gray;
+}
+#select{
+  text-align: center;
+}
+.filtrar-coders{
+  width: 25.33333%;
+  padding-top: 3%;
+  display: inline-block;
+}
+#mostrar-imagenes{
+  padding-top: 3%;
+
+}
